@@ -134,7 +134,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="bcO-Cc-qa3" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1024.8" y="85.714285714285722"/>
+            <point key="canvasLocation" x="977" y="-636"/>
         </scene>
         <!--Contacts View Controller-->
         <scene sceneID="JOJ-pm-EJe">
@@ -201,7 +201,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="80o-o2-1nf" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1980" y="76.847290640394093"/>
+            <point key="canvasLocation" x="977" y="81"/>
         </scene>
         <!--Bool View Controller-->
         <scene sceneID="9PG-ZJ-iXX">
@@ -414,6 +414,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="PQk-Jj-N7E"/>
+        <segue reference="REF-yx-ymx"/>
     </inferredMetricsTieBreakers>
 </document>
